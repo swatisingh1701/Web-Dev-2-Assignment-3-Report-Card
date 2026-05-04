@@ -1,11 +1,11 @@
 
 import React from 'react'
-import Reportcard from './components/Reportcard' // Adjust path based on your folder structure
+import Reportcard from './components/Reportcard' 
 
 function App() {
   return (
     <div className="App">
-      {/* You can add a Navbar or Header here later */}
+    
       <Reportcard />
     </div>
   )
